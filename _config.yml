@@ -1,0 +1,25 @@
+# Site settings
+baseurl: "/natix"
+title: "Subjective View"
+url: &url https://torrocus.com
+
+# Meta settings
+author: torrocus
+
+twitter:
+  card: summary
+  username: cryptorrocus
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

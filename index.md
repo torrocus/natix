@@ -141,10 +141,6 @@ Here are my referral codes for you to use:
 ```
 
 ```
-WhUR9Ja4Pd
-```
-
-```
 F9ddzZjxRc
 ```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->

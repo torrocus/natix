@@ -161,8 +161,8 @@ The more the worse.
 (() => {
   'use strict'
 
-  const DATES   = ['2024.03', '2024.04', '2024.05', '2024.06', '2024.07'];
-  const RESULTS = [ 401,       144,       67,        79,        47];
+  const DATES   = ['2024.03', '2024.04', '2024.05', '2024.06', '2024.07', '2024.08'];
+  const RESULTS = [ 401,       144,       67,        79,        47,        66];
 
   // Graphs
   const ctx = document.getElementById('results')

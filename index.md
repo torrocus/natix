@@ -139,10 +139,6 @@ Here are my referral codes for you to use:
 ```
 uUnnY1esvU
 ```
-
-```
-Y+G9tNEr8z
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 
 ---

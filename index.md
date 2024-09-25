@@ -157,7 +157,7 @@ The more the worse.
 (() => {
   'use strict'
 
-  const DATES   = ['2024.03', '2024.04', '2024.05', '2024.06', '2024.07', '2024.08'];
+  const DATES   = ['2024.03', '2024.04', '2024.05', '2024.06', '2024.07', '2024.08', '2024.09'];
   const RESULTS = [ 401,       144,       67,        79,        47,        66];
 
   // Graphs
@@ -182,8 +182,14 @@ The more the worse.
       }
     }
   })
-})()
+})();
 </script>
+
+---
+
+## When airdrop?
+
+This question comes up so often on the official Discord it's annoying.
 
 ---
 

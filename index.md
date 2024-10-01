@@ -147,10 +147,6 @@ Q8rFYfThaN
 ```
 aD3P9pYU3K
 ```
-
-```
-zwWZF2ucrz
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
 _All referral codes this week have been used.

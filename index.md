@@ -147,10 +147,6 @@ teZD2#C7sh
 ```
 eFdc82U+qV
 ```
-
-```
-fz3nRwRcs3
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
 _All referral codes this week have been used.

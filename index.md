@@ -145,10 +145,6 @@ Here are my referral codes for you to use:
 ```
 
 ```
-pV7TNmfuj3
-```
-
-```
 MR=fhpBP#Y
 ```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->

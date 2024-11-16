@@ -139,14 +139,6 @@ Here are my referral codes for you to use:
 ```
 UtXmSKth=B
 ```
-
-```
-jHq9jpB8wB
-```
-
-```
-P+wsCKmsJp
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
 _All referral codes this week have been used.

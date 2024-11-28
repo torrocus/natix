@@ -139,10 +139,6 @@ Here are my referral codes for you to use:
 ```
 PjNPdjFXNs
 ```
-
-```
-t3sEw=p9R=
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
 _All referral codes this week have been used.

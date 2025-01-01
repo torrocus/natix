@@ -137,15 +137,15 @@ If you use referral codes, you can get a sign-up bonus of 350 points to kickstar
 Here are my referral codes for you to use:
 <!-- NATIX-REFERRAL-CODES-LIST:START -->
 ```
-xHAc=sSfcv
+1PW1mb68EB
 ```
 
 ```
-y3+knUY7fR
+uHGrXZHBbQ
 ```
 
 ```
-9EuwpYpqbm
+w1ZVyCP1ya
 ```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
@@ -166,7 +166,7 @@ The more the worse.
   'use strict'
 
   const DATES   = ['2024.03', '2024.04', '2024.05', '2024.06', '2024.07', '2024.08', '2024.09', '2024.10', '2024.11', '2024.12'];
-  const RESULTS = [ 401,       144,       67,        79,        47,        66,        87,        80,        61,        47];
+  const RESULTS = [ 401,       144,       67,        79,        47,        66,        87,        80,        61,        50];
 
   // Graphs
   const ctx = document.getElementById('results')

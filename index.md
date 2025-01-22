@@ -143,14 +143,6 @@ FXb7EZ=Wwe
 ```
 Xv6KThAB#+
 ```
-
-```
-zVKmueW6br
-```
-
-```
-hHf96bC=1b
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
 _All referral codes this week have been used.

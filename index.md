@@ -158,7 +158,7 @@ The more the worse.
   'use strict'
 
   const DATES   = ['2024.03', '2024.04', '2024.05', '2024.06', '2024.07', '2024.08', '2024.09', '2024.10', '2024.11', '2024.12', '2025.01', '2025.02'];
-  const RESULTS = [ 401,       144,       67,        79,        47,        66,        87,        80,        61,        50,        61,       ];
+  const RESULTS = [ 401,       144,       67,        79,        47,        66,        87,        80,        61,        50,        61,       57       ];
 
   // Graphs
   const ctx = document.getElementById('results')

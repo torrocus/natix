@@ -143,10 +143,6 @@ ZD+ykm7#tp
 ```
 8yxY9QUGJy
 ```
-
-```
-DXGnTZ#H4P
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
 _All referral codes this week have been used.

@@ -141,10 +141,6 @@ Here are my referral codes for you to use:
 ```
 
 ```
-qtvsJx3HkE
-```
-
-```
 w9v5CdVa7Q
 ```
 

@@ -106,7 +106,6 @@ I start the app before I begin my drive and turn it off when I arrive.
 📱🚦
 The app doesn't block my view.
 I start my drive more calmly.
-😌
 I stay within speed limits for better event detection.
 🛣️
 I use cruise control to maintain a steady speed.
@@ -137,15 +136,19 @@ If you use referral codes, you can get a sign-up bonus of 350 points to kickstar
 Here are my referral codes for you to use:
 <!-- NATIX-REFERRAL-CODES-LIST:START -->
 ```
-kh#K5Wjux#
+KyEVeh3fNZ
 ```
 
 ```
-uJSs9nWg7Q
+QPuPHUGjct
 ```
 
 ```
-uJSs9nWg7Q
+YbXU6M8Y2m
+```
+
+```
+ygUTEymnnG
 ```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--

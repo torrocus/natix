@@ -146,10 +146,6 @@ QPuPHUGjct
 ```
 YbXU6M8Y2m
 ```
-
-```
-ygUTEymnnG
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
 _All referral codes this week have been used.

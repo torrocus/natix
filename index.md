@@ -142,10 +142,6 @@ vmBeFmRuUb
 ```
 2QRSHMAD3q
 ```
-
-```
-fszpgxQr+5
-```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
 _All referral codes this week have been used.

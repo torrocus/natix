@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --global user.name "Alex Malaszkiewicz"
           git config --global user.email "torrocus@users.noreply.github.com"
-          git add -u natix_metrics.csv
+          git add -u natix_metrics.csv nubila_node_count.csv
           git commit -m "Add DePIN stats data"
       - name: Push changes
         uses: ad-m/github-push-action@v0.8.0

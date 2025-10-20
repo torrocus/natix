@@ -198,12 +198,6 @@ The more the worse.
 
 ---
 
-## When airdrop?
-
-This question comes up so often on the official Discord it's annoying.
-
----
-
 For more details, I highly recommend checking out the official [NATIX Network website](https://www.natix.network/)
 🌐
 and the [NATIX Network Blog](https://www.natix.network/blog).

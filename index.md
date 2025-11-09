@@ -136,19 +136,19 @@ If you use referral codes, you can get a sign-up bonus of 350 points to kickstar
 Here are my referral codes for you to use:
 <!-- NATIX-REFERRAL-CODES-LIST:START -->
 ```
-WVY+c3EjVM
+JkN3+xGeD5
 ```
 
 ```
-kDAcgjydE3
+6RdM61me7+
 ```
 
 ```
-3#nHS1jXN=
+d7ZuMRcYkY
 ```
 
 ```
-kBWCmvvHv+
+SMK#GZwg9Z
 ```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--
@@ -168,8 +168,8 @@ The more the worse.
 (() => {
   'use strict'
 
-  const DATES   = ['2024.03', '2024.04', '2024.05', '2024.06', '2024.07', '2024.08', '2024.09', '2024.10', '2024.11', '2024.12', '2025.01', '2025.02', '2025.03', '2025.04', '2025.05', '2025.06', '2025.07', '2025.08', '2025.09'];
-  const RESULTS = [ 401,       144,       67,        79,        47,        66,        87,        80,        61,        50,        61,       57,         47,        96,        53,        66,        114,       62,        80];
+  const DATES   = ['2024.03', '2024.04', '2024.05', '2024.06', '2024.07', '2024.08', '2024.09', '2024.10', '2024.11', '2024.12', '2025.01', '2025.02', '2025.03', '2025.04', '2025.05', '2025.06', '2025.07', '2025.08', '2025.09', '2025.10'];
+  const RESULTS = [ 401,       144,       67,        79,        47,        66,        87,        80,        61,        50,        61,       57,         47,        96,        53,        66,        114,       62,        80,       148];
 
   // Graphs
   const ctx = document.getElementById('results')

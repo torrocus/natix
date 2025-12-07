@@ -136,19 +136,19 @@ If you use referral codes, you can get a sign-up bonus of 350 points to kickstar
 Here are my referral codes for you to use:
 <!-- NATIX-REFERRAL-CODES-LIST:START -->
 ```
-npnAkbCHeT
+wUP+Hd4NRx
 ```
 
 ```
-AH2SEqYete
+uXtcqUGgjn
 ```
 
 ```
-pRhZYRmeAh
+xb5tvK2sFY
 ```
 
 ```
-=CBHG36zVN
+EPtB+tWQ5m
 ```
 <!-- NATIX-REFERRAL-CODES-LIST:END -->
 <!--

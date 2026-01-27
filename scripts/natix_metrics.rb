@@ -34,6 +34,8 @@ end
 def fetch_url(url)
   uri = URI.parse(url)
   http = Net::HTTP.new(uri.host, uri.port)
+  http.open_timeout = 10
+  http.read_timeout = 10
   http.use_ssl = true if uri.scheme == 'https'
 
   request = Net::HTTP::Get.new(uri.request_uri)
@@ -56,7 +58,7 @@ def last_csv_date
 end
 
 def last_natix_burned
-  return nil unless File.exist?(CSV_FILE)
+  return nil unless File.exist?(CSV_FILE) && File.size?(CSV_FILE)
 
   CSV.open(CSV_FILE, headers: true) do |csv|
     csv.to_a.last&.[]('natixBurned')
@@ -75,6 +77,7 @@ validate_csv_schema!
 today = Time.now.utc.to_date.to_s
 exit if last_csv_date == today
 
+# Warm-up request to mimic browser behavior (not strictly required)
 fetch_url(OFFICIAL_NATIX_URL)
 json_response = fetch_url(NATIX_NETWORK_METRICS_URL)
 

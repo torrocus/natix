@@ -28,6 +28,9 @@ def fetch_url(url)
 
   request = Net::HTTP::Get.new(uri.request_uri)
   request['User-Agent'] = USER_AGENT
+  request['Accept'] = '*/*'
+  request['Referer'] = 'https://www.natix.network/'
+  request['Origin'] = 'https://www.natix.network'
 
   response = http.request(request)
   response.body

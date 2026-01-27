@@ -7,7 +7,7 @@ require 'uri'
 CSV_FILE = 'natix_metrics.csv'
 
 OFFICIAL_NATIX_URL = 'https://www.natix.network/'
-NATIX_NETWORK_METRICS_URL = 'https://l3s-analytics-apim.azure-api.net/stats/nnwebsitemetrics'
+NATIX_NETWORK_METRICS_URL = 'https://coverage.natix.network/coverage/v1/metrics/global'
 
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36'
 
@@ -48,7 +48,15 @@ exit if last_csv_date == today
 fetch_url(OFFICIAL_NATIX_URL)
 json_response = fetch_url(NATIX_NETWORK_METRICS_URL)
 
-data = JSON.parse(json_response)
-data['date'] = today
+raw = JSON.parse(json_response)
+metrics = raw['result']
+
+data = {
+  'date' => today,
+  'totalKm' => metrics['kmMapped'],
+  'totalDetections' => metrics['detections'],
+  'totalUsers' => metrics['drivers']
+}
+
 append_to_csv(data)
 
